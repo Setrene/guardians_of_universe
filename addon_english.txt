@@ -3240,19 +3240,19 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
  
  
  "DOTA_Tooltip_ability_item_bashercustom" "Matter of destruction strike"
- "DOTA_Tooltip_ability_item_bashercustom_Description" "<h1>Passive: Stun</h1>Attacks have chance bash target for %bash_duration% seconds.\n<br>For melee Для героев ближнего боя: %bash_chance_melee%% <br>Для героев дальнего боя: %bash_chance_ranged%%"
+ "DOTA_Tooltip_ability_item_bashercustom_Description" "<h1>Passive: Stun</h1>Attacks have chance bash target for %bash_duration% seconds.\n<br>For melee heroes : %bash_chance_melee%% <br>For ranged heroes : %bash_chance_ranged%%"
  "DOTA_Tooltip_ability_item_bashercustom_bonus_damage" "+Damage:"
  "DOTA_Tooltip_ability_item_bashercustom_bonus_strength" "+Health:"
  "DOTA_Tooltip_ability_item_bashercustom_bash_cooldown" "CD:"
  
  "DOTA_Tooltip_ability_item_bashercustom2" "Matter of destruction strike"
- "DOTA_Tooltip_ability_item_bashercustom2_Description" "<h1>Пассивная: Оглушение</h1>Шанс оглушить противника на %bash_duration% сек. при ударе.\n<br>Для героев ближнего боя: %bash_chance_melee%% <br>Для героев дальнего боя: %bash_chance_ranged%%"
+ "DOTA_Tooltip_ability_item_bashercustom2_Description" "<h1>Passive: Stun</h1>Attacks have chance bash target for %bash_duration% seconds.\n<br>For melee heroes : %bash_chance_melee%% <br>For ranged heroes : %bash_chance_ranged%%"
  "DOTA_Tooltip_ability_item_bashercustom2_bonus_damage" "+Damage:"
  "DOTA_Tooltip_ability_item_bashercustom2_bonus_strength" "+Health:"
  "DOTA_Tooltip_ability_item_bashercustom2_bash_cooldown" "CD:"	
  
  "DOTA_Tooltip_ability_item_bashercustom3" "Matter of destruction strike 2"
- "DOTA_Tooltip_ability_item_bashercustom3_Description" "<h1>Пассивная: Оглушение</h1>Шанс оглушить противника на %bash_duration% сек. при ударе.\n<br>Для героев ближнего боя: %bash_chance_melee%% <br>Для героев дальнего боя: %bash_chance_ranged%%"
+ "DOTA_Tooltip_ability_item_bashercustom3_Description" "<h1>Passive: Stun</h1>Attacks have chance bash target for %bash_duration% seconds.\n<br>For melee heroes : %bash_chance_melee%% <br>For ranged heroes : %bash_chance_ranged%%"
  "DOTA_Tooltip_ability_item_bashercustom3_bonus_damage" "+Damage:"
  "DOTA_Tooltip_ability_item_bashercustom3_bonus_strength" "+Health:"
  "DOTA_Tooltip_ability_item_bashercustom3_bash_cooldown" "CD:"
@@ -3576,7 +3576,7 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
  
  ///Пока не наносит урон///
   "DOTA_Tooltip_ability_item_scythe_of_the_ancients" "Charged magical scythe"
-"DOTA_Tooltip_ability_item_scythe_of_the_ancients_Description" "<h1>Active: Reaper</h1> Summons a Reaper, unleashing a massive burst of dark energy at an enemy hero, dealing %cast_damage% + %cast_damage_pct%%% damage and stunning it for %stun_duration% seconds(s). At the end of the stun, the Reaper will strike, dealing %delayed_damage_per_health% damage for each missing health point. \n <h1>Passive: The weapon of darkness</h1> When applying magic damage, also deals bonus pure damage in the amount of %magic_damage_to_pure_pct%%% of it. \n <h1>Passive: Ultimate Upgrade</h1> Improves ultimate abilities, as well as some abilities of some heroes."
+"DOTA_Tooltip_ability_item_scythe_of_the_ancients_Description" "<h1>Active: Reaper</h1> Summons a Reaper, unleashing a massive burst of dark energy at an enemy hero, dealing %cast_damage% + %cast_damage_pct%%% damage and stunning it for %stun_duration% seconds. At the end of the stun, the Reaper will strike, dealing %delayed_damage_per_health% damage for each missing health point. \n <h1>Passive: The weapon of darkness</h1> When applying magic damage, also deals bonus pure damage in the amount of %magic_damage_to_pure_pct%%% of it. \n <h1>Passive: Ultimate Upgrade</h1> Improves ultimate abilities, as well as some abilities of some heroes."
  "DOTA_Tooltip_ability_item_scythe_of_the_ancients_spell_amp_pct" "%Spell damage amplification:" 
  "DOTA_Tooltip_ability_item_scythe_of_the_ancients_cast_range_bonus" "Bonus cast range:" 
  "DOTA_Tooltip_ability_item_scythe_of_the_ancients_bonus_attack_range" "Bonus attack range:" 
@@ -3585,7 +3585,7 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
  
   ///Пока не наносит урон///
   "DOTA_Tooltip_ability_item_scythe_of_the_ancients_2" "Charged magical scythe 2"
-"DOTA_Tooltip_ability_item_scythe_of_the_ancients_2_Description" "<h1>Active: Reaper</h1> Summons a Reaper, unleashing a massive burst of dark energy at an enemy hero, dealing %cast_damage% + %cast_damage_pct%%% damage and stunning it for %stun_duration% seconds(s). At the end of the stun, the Reaper will strike, dealing %delayed_damage_per_health% damage for each missing health point. \n <h1>Passive: The weapon of Darkness</h1> When applying magic damage, also deals bonus pure damage in the amount of %magic_damage_to_pure_pct%%% of it. \n <h1>Passive: Ultimate Upgrade</h1> Improves ultimate abilities, as well as some abilities of some heroes."
+"DOTA_Tooltip_ability_item_scythe_of_the_ancients_2_Description" "<h1>Active: Reaper</h1> Summons a Reaper, unleashing a massive burst of dark energy at an enemy hero, dealing %cast_damage% + %cast_damage_pct%%% damage and stunning it for %stun_duration% seconds. At the end of the stun, the Reaper will strike, dealing %delayed_damage_per_health% damage for each missing health point. \n <h1>Passive: The weapon of Darkness</h1> When applying magic damage, also deals bonus pure damage in the amount of %magic_damage_to_pure_pct%%% of it. \n <h1>Passive: Ultimate Upgrade</h1> Improves ultimate abilities, as well as some abilities of some heroes."
  "DOTA_Tooltip_ability_item_scythe_of_the_ancients_2_spell_amp_pct" "%Spell damage amplification:" 
  "DOTA_Tooltip_ability_item_scythe_of_the_ancients_2_cast_range_bonus" "Bonus cast range:" 
  "DOTA_Tooltip_ability_item_scythe_of_the_ancients_2_bonus_attack_range" "Bonus attack range:" 
@@ -3594,7 +3594,7 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
  
   ///Пока не наносит урон///
   "DOTA_Tooltip_ability_item_scythe_of_the_ancients_3" "Charged magical scythe 3"
-"DOTA_Tooltip_ability_item_scythe_of_the_ancients_3_Description" "<h1>Active: Reaper</h1> Summons a Reaper, unleashing a massive burst of dark energy at an enemy hero, dealing %cast_damage% + %cast_damage_pct%%% damage and stunning it for %stun_duration% seconds(s). At the end of the stun, the Reaper will strike, dealing %delayed_damage_per_health% damage for each missing health point. \n <h1>Passive: The weapon of darkness</h1> When applying magic damage, also deals bonus pure damage in the amount of %magic_damage_to_pure_pct%%% of it. \n <h1>Passive: Ultimate Upgrade</h1> Improves ultimate abilities, as well as some abilities of some heroes."
+"DOTA_Tooltip_ability_item_scythe_of_the_ancients_3_Description" "<h1>Active: Reaper</h1> Summons a Reaper, unleashing a massive burst of dark energy at an enemy hero, dealing %cast_damage% + %cast_damage_pct%%% damage and stunning it for %stun_duration% seconds. At the end of the stun, the Reaper will strike, dealing %delayed_damage_per_health% damage for each missing health point. \n <h1>Passive: The weapon of darkness</h1> When applying magic damage, also deals bonus pure damage in the amount of %magic_damage_to_pure_pct%%% of it. \n <h1>Passive: Ultimate Upgrade</h1> Improves ultimate abilities, as well as some abilities of some heroes."
  "DOTA_Tooltip_ability_item_scythe_of_the_ancients_3_spell_amp_pct" "%Spell damage amplification:" 
  "DOTA_Tooltip_ability_item_scythe_of_the_ancients_3_cast_range_bonus" "Bonus cast range:" 
  "DOTA_Tooltip_ability_item_scythe_of_the_ancients_3_bonus_attack_range" "Bonus attack range:" 
@@ -3602,7 +3602,7 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
  "DOTA_Tooltip_ability_item_scythe_of_the_ancients_3_bonus_strength" "+All stats:"
  
  		"DOTA_Tooltip_ability_item_scythe_of_the_ancients_4"              		"Cursed death's scythe"
-		"DOTA_Tooltip_ability_item_scythe_of_the_ancients_4_Description" 			"<h1>Active: Reaper</h1> Summons a Reaper, unleashing a massive burst of dark energy at an enemy hero, dealing %cast_damage% + %cast_damage_pct%%% damage and stunning it for %stun_duration% seconds(s). At the end of the stun, the Reaper will strike, dealing %delayed_damage_per_health% damage for each missing health point. \n <h1>Passive: The weapon of Darkness</h1> When applying magic damage, also deals bonus pure damage in the amount of %magic_damage_to_pure_pct%%% of it. \n <h1>Passive: Ultimate Upgrade</h1> Improves ultimate abilities, as well as some abilities of some heroes." 
+		"DOTA_Tooltip_ability_item_scythe_of_the_ancients_4_Description" 			"<h1>Active: Desintegration</h1> Summons a Reaper, unleashing a massive burst of dark energy at an enemy hero, dealing %cast_damage% + %cast_damage_pct%%% damage and stunning it for %stun_duration% seconds. At the end of the stun, the Reaper will strike, dealing %delayed_damage_per_health% damage for each missing health point. \n <h1>Passive: The weapon of Darkness</h1> When applying magic damage, also deals bonus pure damage in the amount of %magic_damage_to_pure_pct%%% of it. \n <h1>Passive: Ultimate Upgrade</h1> Improves ultimate abilities, as well as some abilities of some heroes." 
 		"DOTA_Tooltip_ability_item_scythe_of_the_ancients_4_spell_amp_pct" 				"%Spell damage amplification:" 
 		"DOTA_Tooltip_ability_item_scythe_of_the_ancients_4_cast_range_bonus" 			"Bonus cast range:" 
 		"DOTA_Tooltip_ability_item_scythe_of_the_ancients_4_bonus_attack_range" 		"Bonus attack range:"  
@@ -3714,8 +3714,8 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
 
 
 
-"DOTA_Tooltip_ability_item_veil_of_discord2" "Mantle of Azgard"
- "DOTA_Tooltip_ability_item_veil_of_discord2_Description" "<h1>Active: Magical weakness</h1>Decreases affected units' magical resistance by %MR_debuff%% within %debuff_radius% radius."
+"DOTA_Tooltip_ability_item_veil_of_discord2" "Mantle of Asgard"
+ "DOTA_Tooltip_ability_item_veil_of_discord2_Description" "<h1>Active: Magical weakness</h1>Decreases affected units' magical resistance by %MR_debuff%%  within %debuff_radius% radius."
  "DOTA_Tooltip_ability_item_veil_of_discord2_Lore" "Consecutive uses render almost any enemy vulnerable."
  "DOTA_Tooltip_ability_item_veil_of_discord2_bonus_health_regen" "+Health regeneration:"
  "DOTA_Tooltip_ability_item_veil_of_discord2_bonus_armor" "+Armor:"
@@ -3780,7 +3780,7 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
  "DOTA_Tooltip_modifier_item_unstable_quasar_aura_Description" "Magical resistance is reduced"
  
  "DOTA_Tooltip_ability_item_unstable_quasar" "Little dwarf"
- "DOTA_Tooltip_ability_item_unstable_quasar_Description" "<h1>Passive: Singularity</h1> Using an ability of item or hero with manacost will deal %base_damage% + %damage_pct%%% (%intelligence_damage_pct%%% for heroes whose main attribute - Intellect) from their maximum HP to all enemies, reducing their move speed to %slow_speed% units for %slow_duration% seconds, within radius of %singularity_radius%.<br><br>Use costs : %manacost% + %manacost_pct%%% from maximum mana.%singularity_radius%\n<h1>Passive: Magical instability</h1> Allows to see invisible units and also reduces magical resistance of enemy units by %aura_resist_debuff_pct%%%."
+ "DOTA_Tooltip_ability_item_unstable_quasar_Description" "<h1>Passive: Singularity</h1> Using an ability of item or hero with manacost will deal %base_damage% + %damage_pct%%% (%intelligence_damage_pct%%% for heroes whose main attribute - Intellect) from their maximum HP to all enemies, reducing their move speed to %slow_speed% units for %slow_duration% seconds, within radius of %singularity_radius%.<br><br>Use costs : %manacost% + %manacost_pct%%% from maximum mana.\n<h1>Passive: Magical instability</h1> Allows to see invisible units and also reduces magical resistance of enemy units by %aura_resist_debuff_pct%%%."
  "DOTA_Tooltip_ability_item_unstable_quasar_Note0" "Effects from multiple Unstable Quasars do not stack." 
  "DOTA_Tooltip_ability_item_unstable_quasar_bonus_day_vision" "+Vision range during the day:" 
  "DOTA_Tooltip_ability_item_unstable_quasar_bonus_night_vision" "+Vision range during the night:" 
@@ -3795,7 +3795,7 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
 				"DOTA_Tooltip_modifier_item_unstable_quasar2_aura_Description" "Magical resistance is reduced"
 				
 				"DOTA_Tooltip_ability_item_unstable_quasar2" "Little dwarf 2"
-				"DOTA_Tooltip_ability_item_unstable_quasar2_Description" "<h1>Passive: Singularity</h1> Using an ability of item or hero with manacost will deal %base_damage% + %damage_pct%%% (%intelligence_damage_pct%%% for heroes whose main attribute - Intellect) from their maximum HP to all enemies, reducing their move speed to %slow_speed% units for %slow_duration% seconds, within radius of %singularity_radius%.<br><br>Use costs : %manacost% + %manacost_pct%%% from maximum mana.%singularity_radius%\n<h1>Passive: Magical instability</h1> Allows to see invisible units and also reduces magical resistance of enemy units by %aura_resist_debuff_pct%%%."				
+				"DOTA_Tooltip_ability_item_unstable_quasar2_Description" "<h1>Passive: Singularity</h1> Using an ability of item or hero with manacost will deal %base_damage% + %damage_pct%%% (%intelligence_damage_pct%%% for heroes whose main attribute - Intellect) from their maximum HP to all enemies, reducing their move speed to %slow_speed% units for %slow_duration% seconds, within radius of %singularity_radius%.<br><br>Use costs : %manacost% + %manacost_pct%%% from maximum mana.\n<h1>Passive: Magical instability</h1> Allows to see invisible units and also reduces magical resistance of enemy units by %aura_resist_debuff_pct%%%."				
 				"DOTA_Tooltip_ability_item_unstable_quasar2_Note0" "Эффекты от нескольких Unstable Quasar не складываются." 
 				"DOTA_Tooltip_ability_item_unstable_quasar2_Note0" "Effects from multiple Unstable Quasars do not stack."
 				"DOTA_Tooltip_ability_item_unstable_quasar2_bonus_day_vision" "+Vision range during the day" 
@@ -3960,7 +3960,7 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
 
 
  "DOTA_Tooltip_ability_item_lifestealtank" "Blood gem"
- "DOTA_Tooltip_ability_item_lifestealtank_Description" "<h1>Passive: Ally blood</h1> 20% of all damage dealt by allies within %radius% radius will replenish your health.\n<h1>Passive: Vampirism</h1> Each attack replenishes %lifesteal%% owner's health based on damage."
+ "DOTA_Tooltip_ability_item_lifestealtank_Description" "<h1>Passive: Ally blood</h1> 20% of all damage dealt by allies within %radius% radius will replenish your health.\n<h1>Passive: Vampirism</h1> Each attack replenishes %lifesteal%%  owner's health based on damage."
  "DOTA_Tooltip_ability_item_lifestealtank_bonus_armor" "+Armor:"
  "DOTA_Tooltip_ability_item_lifestealtank_tooltip_allstats" "+All stats:"
  "DOTA_Tooltip_ability_item_lifestealtank_bonus_damage" "+Damage:"
@@ -3974,7 +3974,7 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
  "DOTA_Tooltip_ability_item_tank_booster_Lore" "Grants additional health depending on your strength."
  "DOTA_Tooltip_ability_item_tank_booster_bonus_all" "+All stats:"
  "DOTA_Tooltip_ability_item_tank_booster_bonus_health" "+Health:"
- "DOTA_Tooltip_ability_item_tank_booster_health_per_str" "+ Health per <font color='#ff4545'>1 strength</font>"
+ "DOTA_Tooltip_ability_item_tank_booster_health_per_str" "+ Health per 1 strength"
 
 
 
@@ -3983,7 +3983,7 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
  "DOTA_Tooltip_ability_item_blood_booster_bonus_all" "+All stats:"
  "DOTA_Tooltip_ability_item_blood_booster_bonus_health" "+Health:"
  "DOTA_Tooltip_ability_item_blood_booster_health_per_str" "+Health per 1 strength:"
- "DOTA_Tooltip_ability_item_blood_booster_Description" "<h1>Passive: Ally blood</h1> 20% of all damage dealt by allies within %radius% radius will replenish your health.\n<h1>Passive: Vampirism</h1> Each attack replenishes %lifesteal%% owner's health based on damage."
+ "DOTA_Tooltip_ability_item_blood_booster_Description" "<h1>Passive: Ally blood</h1> 20% of all damage dealt by allies within %radius% radius will replenish your health.\n<h1>Passive: Vampirism</h1> Each attack replenishes %lifesteal%%  owner's health based on damage."
  "DOTA_Tooltip_ability_item_blood_booster_bonus_armor" "+Armor:"
  "DOTA_Tooltip_ability_item_blood_booster_bonus_health_regen" "+ Health regeneration:"
  "DOTA_Tooltip_ability_item_blood_booster_bonus_damage" "+Damage:"
@@ -3997,7 +3997,7 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
  
  
   "DOTA_Tooltip_ability_item_midas_2" "Midas hammer"
- "DOTA_Tooltip_ability_item_midas_2_Description" "Passive: Bonanza - if the item is not on CD, then for each attack you will receive 1 gold."
+ "DOTA_Tooltip_ability_item_midas_2_Description" "Passive: Bonanza   If the item is not on CD, then for each attack you will receive 1 gold."
 
 		"DOTA_Tooltip_Ability_item_gu_desolator"						"Desolator"
 		"DOTA_Tooltip_Ability_item_gu_desolator_Description"			"<h1>Passive: Annigilation</h1> Your attacks reduce target's armor by %cr_armor% for 15 seconds."
@@ -4022,11 +4022,11 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
 
 
  "DOTA_Tooltip_ability_item_daedalus2" "Daedalus 2"
- "DOTA_Tooltip_ability_item_daedalus2_Description" "Each attack has %critical_chance%% chance to deal %critical_bonus%% damage."
+ "DOTA_Tooltip_ability_item_daedalus2_Description" "Each attack has %critical_chance%%  chance to deal %critical_bonus%% damage."
  "DOTA_Tooltip_ability_item_daedalus2_bonus_damage" "+Damage:"
  
  "DOTA_Tooltip_ability_item_daedalus3" "Daedalus 3"
- "DOTA_Tooltip_ability_item_daedalus3_Description" "Each attack has %critical_chance%% chance to deal %critical_bonus%% damage."
+ "DOTA_Tooltip_ability_item_daedalus3_Description" "Each attack has %critical_chance%%  chance to deal %critical_bonus%% damage."
  "DOTA_Tooltip_ability_item_daedalus3_bonus_damage" "+Damage:"
 
 
@@ -4056,31 +4056,31 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
 
 
 				"DOTA_Tooltip_ability_item_cu_fury_1"                                                              "Warhammer"
-                "DOTA_Tooltip_ability_item_cu_fury_1_Description"                                          "<h1>Passive: Splash</h1> - Deals %cleave_damage%% cleave damage to all enemies in front of you in %distance% range."                                        
+                "DOTA_Tooltip_ability_item_cu_fury_1_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%% cleave damage to all enemies in front of you in %distance% range."                                        
                 "DOTA_Tooltip_ability_item_cu_fury_1_damage"                               "Damage:"
                 "DOTA_Tooltip_ability_item_cu_fury_1_regen_hp"                         "Health Regeneration"
                 "DOTA_Tooltip_ability_item_cu_fury_1_regen_mana"                           "%Mana Regeneration:"
 					   
 				"DOTA_Tooltip_ability_item_cu_fury_2"                                                              "Warhammer 2"
-                "DOTA_Tooltip_ability_item_cu_fury_2_Description"                                          "<h1>Passive: Splash</h1> - Deals %cleave_damage%% cleave damage to all enemies in front of you in %distance% range."                                        
+                "DOTA_Tooltip_ability_item_cu_fury_2_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%% cleave damage to all enemies in front of you in %distance% range."                                        
                 "DOTA_Tooltip_ability_item_cu_fury_2_damage"                               "Damage:"
                 "DOTA_Tooltip_ability_item_cu_fury_2_regen_hp"                         "Health Regeneration"
                 "DOTA_Tooltip_ability_item_cu_fury_2_regen_mana"                           "%Mana Regeneration:"			   
 					   
 				"DOTA_Tooltip_ability_item_cu_fury_3"                                                              "Warhammer 3"
-                "DOTA_Tooltip_ability_item_cu_fury_3_Description"                                          "<h1>Passive: Splash</h1> - Deals %cleave_damage%% cleave damage to all enemies in front of you in %distance% range."                                        
+                "DOTA_Tooltip_ability_item_cu_fury_3_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%% cleave damage to all enemies in front of you in %distance% range."                                        
                 "DOTA_Tooltip_ability_item_cu_fury_3_damage"                               "Damage:"
                 "DOTA_Tooltip_ability_item_cu_fury_3_regen_hp"                         "Health Regeneration"
                 "DOTA_Tooltip_ability_item_cu_fury_3_regen_mana"                           "%Mana Regeneration:"
 					   
 				"DOTA_Tooltip_ability_item_cu_fury_4"                                                              "Warhammer 4"
-                "DOTA_Tooltip_ability_item_cu_fury_4_Description"                                          "<h1>Passive: Splash</h1> - Deals %cleave_damage%% cleave damage to all enemies in front of you in %distance% range."                                        
+                "DOTA_Tooltip_ability_item_cu_fury_4_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%% cleave damage to all enemies in front of you in %distance% range."                                        
                 "DOTA_Tooltip_ability_item_cu_fury_4_damage"                               "Damage:"
                 "DOTA_Tooltip_ability_item_cu_fury_4_regen_hp"                         "Health Regeneration"
                 "DOTA_Tooltip_ability_item_cu_fury_4_regen_mana"                           "%Mana Regeneration:"
 					   
 				"DOTA_Tooltip_ability_item_cu_fury_5"                                                              "Warhammer 5"
-                "DOTA_Tooltip_ability_item_cu_fury_5_Description"                                          "<h1>Passive: Splash</h1> - Deals %cleave_damage%% cleave damage to all enemies in front of you in %distance% range."                                        
+                "DOTA_Tooltip_ability_item_cu_fury_5_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%% cleave damage to all enemies in front of you in %distance% range."                                        
                 "DOTA_Tooltip_ability_item_cu_fury_5_damage"                               "Damage:"
                 "DOTA_Tooltip_ability_item_cu_fury_5_regen_hp"                         "Health Regeneration"
                 "DOTA_Tooltip_ability_item_cu_fury_5_regen_mana"                           "%Mana Regeneration:"
@@ -4088,14 +4088,14 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
 					   
 					   
                 "DOTA_Tooltip_ability_item_cu_fury_6"                                                              "Midas fury"
-                "DOTA_Tooltip_ability_item_cu_fury_6_Description"                                          "<h1>Passive: Splash</h1> - Deals %cleave_damage%% cleave damage to all enemies in front of you in %distance% range.<br><br>Passive : Bonanza - each hit will give you 1 gold when item is active."                                        
+                "DOTA_Tooltip_ability_item_cu_fury_6_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%% cleave damage to all enemies in front of you in %distance% range.<br><br>Passive : Bonanza - each hit will give you 1 gold when item is active."                                        
                 "DOTA_Tooltip_ability_item_cu_fury_6_damage"                               "Damage:"
                 "DOTA_Tooltip_ability_item_cu_fury_6_regen_hp"                         "Health Regeneration"
                 "DOTA_Tooltip_ability_item_cu_fury_6_regen_mana"                           "%Mana Regeneration:"
 
 
                 "DOTA_Tooltip_ability_item_cu_fury_7"                                                              "Midas crusher"
-                "DOTA_Tooltip_ability_item_cu_fury_7_Description"                                          "<h1>Passive: Splash</h1> - Deals %cleave_damage%% cleave damage to all enemies in front of you in a %distance% range.<br><br>Passive : Bonanza - each hit will give you 2 gold when item is active (Does not work for ranged heroes). \n <h1>Passive: Destruction matter hit</h1> - there is a chance to bash the target."                                        
+                "DOTA_Tooltip_ability_item_cu_fury_7_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%% cleave damage to all enemies in front of you in a %distance% range.<br><br>Passive : Bonanza   Each hit will give you 2 gold when item is active (Does not work for ranged heroes). \n <h1>Passive: Destruction matter hit</h1> - there is a chance to bash the target."                                        
                 "DOTA_Tooltip_ability_item_cu_fury_7_damage"                               "Damage:"
                 "DOTA_Tooltip_ability_item_cu_fury_7_regen_hp"                         "Health Regeneration"
                 "DOTA_Tooltip_ability_item_cu_fury_7_regen_mana"                           "%Mana Regeneration:"
@@ -4222,43 +4222,43 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
 
 
  "DOTA_Tooltip_ability_item_talisman_of_mastery" "Consciousness Talisman 1"
-"DOTA_Tooltip_ability_item_talisman_of_mastery_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%% of damage is converted into experience."
+"DOTA_Tooltip_ability_item_talisman_of_mastery_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%%  of damage is converted into experience."
 "DOTA_Tooltip_ability_item_talisman_of_mastery_bonus_attack" "+Damage:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery_bonus_str" "+Strength:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery_bonus_hp_regen" "Health regeneration:"
 
  "DOTA_Tooltip_ability_item_talisman_of_mastery2" "Consciousness Talisman 2"
-"DOTA_Tooltip_ability_item_talisman_of_mastery2_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%% of damage is converted into experience."
+"DOTA_Tooltip_ability_item_talisman_of_mastery2_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%%  of damage is converted into experience."
 "DOTA_Tooltip_ability_item_talisman_of_mastery2_bonus_attack" "+Damage:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery2_bonus_str" "+Strength:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery2_bonus_hp_regen" "Health regeneration:"
 
  "DOTA_Tooltip_ability_item_talisman_of_mastery3" "Consciousness Talisman 3"
-"DOTA_Tooltip_ability_item_talisman_of_mastery3_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%% of damage is converted into experience."
+"DOTA_Tooltip_ability_item_talisman_of_mastery3_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%%  of damage is converted into experience."
 "DOTA_Tooltip_ability_item_talisman_of_mastery3_bonus_attack" "+Damage:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery3_bonus_str" "+Strength:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery3_bonus_hp_regen" "Health regeneration:"
 
  "DOTA_Tooltip_ability_item_talisman_of_mastery4" "Consciousness Talisman 4"
-"DOTA_Tooltip_ability_item_talisman_of_mastery4_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%% of damage is converted into experience."
+"DOTA_Tooltip_ability_item_talisman_of_mastery4_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%%  of damage is converted into experience."
 "DOTA_Tooltip_ability_item_talisman_of_mastery4_bonus_attack" "+Damage:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery4_bonus_str" "+Strength:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery4_bonus_hp_regen" "Health regeneration:"
 
  "DOTA_Tooltip_ability_item_talisman_of_mastery5" "Consciousness Talisman 5"
-"DOTA_Tooltip_ability_item_talisman_of_mastery5_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%% of damage is converted into experience."
+"DOTA_Tooltip_ability_item_talisman_of_mastery5_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%%  of damage is converted into experience."
 "DOTA_Tooltip_ability_item_talisman_of_mastery5_bonus_attack" "+Damage:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery5_bonus_str" "+Strength:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery5_bonus_hp_regen" "Health regeneration:"
 
 "DOTA_Tooltip_ability_item_talisman_of_mastery6" "Consciousness Talisman 6"
-"DOTA_Tooltip_ability_item_talisman_of_mastery6_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%% of damage is converted into experience."
+"DOTA_Tooltip_ability_item_talisman_of_mastery6_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%%  of damage is converted into experience."
 "DOTA_Tooltip_ability_item_talisman_of_mastery6_bonus_attack" "+Damage:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery6_bonus_str" "+Strength:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery6_bonus_hp_regen" "Health regeneration:"
 
 "DOTA_Tooltip_ability_item_talisman_of_mastery7" "Consciousness Talisman 7"
-"DOTA_Tooltip_ability_item_talisman_of_mastery7_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%% of damage is converted into experience."
+"DOTA_Tooltip_ability_item_talisman_of_mastery7_Description" "<h1>Passive: AcknowledgementОсознание</h1>Each attack gives additional experience varying from %min_exp% to %max_exp%. Melee heroes get more experience. %damage_to_exp%%  of damage is converted into experience."
 "DOTA_Tooltip_ability_item_talisman_of_mastery7_bonus_attack" "+Damage:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery7_bonus_str" "+Strength:"
 "DOTA_Tooltip_ability_item_talisman_of_mastery7_bonus_hp_regen" "Health regeneration:"
@@ -4347,7 +4347,7 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
 
 
 		"DOTA_Tooltip_Ability_item_demon_echo_sabre"                                 "Demon Echo Sabre"
-		"DOTA_Tooltip_ability_item_demon_echo_sabre_Description"                     "<h1>Passive: Echo Strike</h1> Allows to perform a double attack, that slows for %slow_duration% secs. and decreases attack and movement speed by %movement_slow%%.<br><br>"
+		"DOTA_Tooltip_ability_item_demon_echo_sabre_Description"                     "<h1>Passive: Echo Strike</h1> Allows to perform a double attack, that slows for %slow_duration% secs. and decreases attack and movement speed by %movement_slow%%."
 		"DOTA_Tooltip_ability_item_demon_echo_sabre_bonus_attack_speed"             "+Attack speed:"
 		"DOTA_Tooltip_ability_item_demon_echo_sabre_bonus_damage"                   "+Damage:"
         "DOTA_Tooltip_ability_item_demon_echo_sabre_ag"                   "+Agility:"
@@ -4548,7 +4548,7 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
  "dota_tooltip_ability_item_imba_cyclone_2_bonus_mana_regen" "+$mana_regen"
  "dota_tooltip_ability_item_imba_cyclone_2_bonus_movement_speed" "+$move_speed"
  "dota_tooltip_ability_item_imba_cyclone_2_bonus_spell_amp" "%+Spell amplification:"
- "dota_tooltip_ability_item_imba_cyclone_2_description" "<h1>Active: Ascend</h1> Raises the unit far into the sky, purging it from all debuffs, and also slows down all enemies within the radius. Deals %drop_damage% damage on falling."
+ "dota_tooltip_ability_item_imba_cyclone_2_description" "<h1>Active: Ascend</h1> Raises the unit far into the sky, purging it from all debuffs, and also slows down all enemies within the radius. Deals %drop_damage% damage on fall."
 
 
  "dota_tooltip_ability_rangesplech" "<font color='#b730ff'>Energetic Separation</font>"
@@ -5168,7 +5168,7 @@ Contract"
 "int_rewards" "+Intellect"
 "mag_armor_rewards" "+Magical resistance"
 "mana_rewards" " +Mana regeneration"
-"damage_spell_rewards" "+Spell damage amplification"
+"spell_ampl_rewards" "+Spell damage amplification"
 "str_rewards" "+Strength"
 "stres_rewards" " +Status resistance"
 "xp_rewards" " +Experience"
@@ -5612,7 +5612,7 @@ Also almost all abilities have their cooldowns shortened accordingto formula (ra
 
 "DOTA_Tooltip_modifier_armor_race_armored" "Race Armored: Armor"
 "DOTA_Tooltip_modifier_armor_race_armored_Description" "Passive bonus: <font color='#ff9100'>Bonus Armor. According to formula = (Your armor + race rank * 2)</font><br>
-Passive bonus: <font color='#ff9100'>Zqro Point Module. Increases maximal Energy capacity according to formula (500 * race rank)</font><br>
+Passive bonus: <font color='#ff9100'>Zero Point Module. Increases maximal Energy capacity according to formula (500 * race rank)</font><br>
 Passive bonus: <font color='#ff9100'>Naquadah-reactor. Increases Energy regeneration according to formula (base regeneration * race rank * 5)</font>"
 
 
