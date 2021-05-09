@@ -26,7 +26,7 @@
 	"Result"	"Result"
 
 	"DOTA_GoodGuys" "Guardians of the Universe"
-	"DOTA_BadGuys" "Underlings of Evil"
+	"DOTA_BadGuys" "Ori Warriors"
 
 
 	/// H U D  В О Л Н Ы ///
@@ -4004,51 +4004,6 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
 
 
 
-				"DOTA_Tooltip_ability_item_cu_fury_1"                                                              "Warhammer"
-                "DOTA_Tooltip_ability_item_cu_fury_1_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%%  cleave damage to all enemies in front of you in %distance% range."                                        
-                "DOTA_Tooltip_ability_item_cu_fury_1_damage"                               "Damage:"
-                "DOTA_Tooltip_ability_item_cu_fury_1_regen_hp"                         "Health Regeneration"
-                "DOTA_Tooltip_ability_item_cu_fury_1_regen_mana"                           "Mana Regeneration:"
-					   
-				"DOTA_Tooltip_ability_item_cu_fury_2"                                                              "Warhammer 2"
-                "DOTA_Tooltip_ability_item_cu_fury_2_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%%  cleave damage to all enemies in front of you in %distance% range."                                        
-                "DOTA_Tooltip_ability_item_cu_fury_2_damage"                               "Damage:"
-                "DOTA_Tooltip_ability_item_cu_fury_2_regen_hp"                         "Health Regeneration"
-                "DOTA_Tooltip_ability_item_cu_fury_2_regen_mana"                           "Mana Regeneration:"			   
-					   
-				"DOTA_Tooltip_ability_item_cu_fury_3"                                                              "Warhammer 3"
-                "DOTA_Tooltip_ability_item_cu_fury_3_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%%  cleave damage to all enemies in front of you in %distance% range."                                        
-                "DOTA_Tooltip_ability_item_cu_fury_3_damage"                               "Damage:"
-                "DOTA_Tooltip_ability_item_cu_fury_3_regen_hp"                         "Health Regeneration"
-                "DOTA_Tooltip_ability_item_cu_fury_3_regen_mana"                           "Mana Regeneration:"
-					   
-				"DOTA_Tooltip_ability_item_cu_fury_4"                                                              "Warhammer 4"
-                "DOTA_Tooltip_ability_item_cu_fury_4_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%%  cleave damage to all enemies in front of you in %distance% range."                                        
-                "DOTA_Tooltip_ability_item_cu_fury_4_damage"                               "Damage:"
-                "DOTA_Tooltip_ability_item_cu_fury_4_regen_hp"                         "Health Regeneration"
-                "DOTA_Tooltip_ability_item_cu_fury_4_regen_mana"                           "Mana Regeneration:"
-					   
-				"DOTA_Tooltip_ability_item_cu_fury_5"                                                              "Warhammer 5"
-                "DOTA_Tooltip_ability_item_cu_fury_5_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%%  cleave damage to all enemies in front of you in %distance% range."                                        
-                "DOTA_Tooltip_ability_item_cu_fury_5_damage"                               "Damage:"
-                "DOTA_Tooltip_ability_item_cu_fury_5_regen_hp"                         "Health Regeneration"
-                "DOTA_Tooltip_ability_item_cu_fury_5_regen_mana"                           "Mana Regeneration:"
-					   
-					   
-					   
-                "DOTA_Tooltip_ability_item_cu_fury_6"                                                              "Midas fury"
-                "DOTA_Tooltip_ability_item_cu_fury_6_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%%  cleave damage to all enemies in front of you in %distance% range.<br><br>Passive: Bonanza   Each hit will give you 1 gold when item is active."                                        
-                "DOTA_Tooltip_ability_item_cu_fury_6_damage"                               "Damage:"
-                "DOTA_Tooltip_ability_item_cu_fury_6_regen_hp"                         "Health Regeneration"
-                "DOTA_Tooltip_ability_item_cu_fury_6_regen_mana"                           "Mana Regeneration:"
-
-
-                "DOTA_Tooltip_ability_item_cu_fury_7"                                                              "Midas crusher"
-                "DOTA_Tooltip_ability_item_cu_fury_7_Description"                                          "<h1>Passive: Splash</h1>   Deals %cleave_damage%%  cleave damage to all enemies in front of you in a %distance% range.<br><br>Passive: Bonanza   Each attack has 20% chance to give you 1 gold (Does not work for ranged heroes). \n <h1>Passive: Destruction matter hit</h1> Stuns enemy. Has cooldown of 8 seconds."                                        
-                "DOTA_Tooltip_ability_item_cu_fury_7_damage"                               "Damage:"
-                "DOTA_Tooltip_ability_item_cu_fury_7_regen_hp"                         "Health Regeneration"
-                "DOTA_Tooltip_ability_item_cu_fury_7_regen_mana"                           "Mana Regeneration:"
-                "DOTA_Tooltip_ability_item_cu_fury_7_bonus_strange"                               "Strength:"
 
 
  "DOTA_Tooltip_ability_item_gu_hearth" "Galaxy heart"
@@ -5022,29 +4977,14 @@ For the targeted destruction of enemy missiles and grenades, narrowly targeted d
 
 /// Т Е Л Е П О Р Т Ы ///
 
-"ad_1" "Base"
-"ad_2" "Map Center"
-"ad_3" "Random
-Passive"
-"ad_4" "Random
-Active"
-"ad_5" "Easy Forest"
-"ad_6" "Hard Forest"
-"ad_7" "Absurd Forest"
-"ad_8" "Boss Arena"
-"ad_9" "Pegasus
-Contract"
-"ad_10" ""
-"ad_11" ""
-"ad_12" ""
-"ad_13" ""
-"ad_14" ""
-"ad_15" ""
-"ad_16" ""
-"ad_17" "????ثلتمل????"
-"ad_18" ""
-"ad_19" ""
-"ad_20" ""
+"ad_1" "Base «R3H-234»"
+"ad_2" "Map Center «R3H-403»"
+"ad_3" "???? «R3H-421»"
+"ad_4" "???? «R3H-298»"
+"ad_5" "Easy Forest «R3H-797»"
+"ad_6" "Hard Forest «R3H-888»"
+"ad_7" "Absurd Forest «R3H-367»"
+"ad_8" "Boss Arena «R3H-772»"
 
 
 /// О Б О И ///
@@ -6180,61 +6120,6 @@ They can use autodialling without energy loss."
 		"boss_fite_text" "Boss Choice"
 		"boss_fite_time" "The next boss can be killed in:"
 
-		"DOTA_Tooltip_ability_item_gu_midas_range" 						"Midas' Essence"
-		"DOTA_Tooltip_ability_item_gu_midas_range_Description" 				"Each attack (if item is not on CD) gives 2 gold. <font color='#ff1f1f'>Works only in ranged heroes' inventory!</font>" 
-
-		"DOTA_Tooltip_ability_item_gu_range_splash" 						"Energy attack"
-		"DOTA_Tooltip_ability_item_gu_range_splash_Description" 				"Charges your attack with Energym, which allows you to deal area damage. <font color='#ff1f1f'>Works only in ranged heroes' inventory!</font><br><br><font color='#fceb28'>Each attack consumes 1% of your maximal energy!</font>" 
-		"DOTA_Tooltip_ability_item_gu_range_splash_bonus_damage" 				"Damage: " 
-		"DOTA_Tooltip_ability_item_gu_range_splash_splash_range" 				"Radius: " 
-		"DOTA_Tooltip_ability_item_gu_range_splash_gold" 						"Gold per attack: " 
-		"DOTA_Tooltip_ability_item_gu_range_splash_chanse" 						"Chance to gain gold: "
-
-		"DOTA_Tooltip_ability_item_gu_range_splash_2" 						"Energy attack 2"
-		"DOTA_Tooltip_ability_item_gu_range_splash_2_Description" 				"Charges your attack with Energym, which allows you to deal area damage. <font color='#ff1f1f'>Works only in ranged heroes' inventory!</font><br><br><font color='#fceb28'>Each attack consumes 1% of your maximal energy!</font>" 
-		"DOTA_Tooltip_ability_item_gu_range_splash_2_bonus_damage" 				"Damage: " 
-		"DOTA_Tooltip_ability_item_gu_range_splash_2_splash_range" 				"Radius: " 
-		"DOTA_Tooltip_ability_item_gu_range_splash_2_gold" 						"Gold per attack: " 
-		"DOTA_Tooltip_ability_item_gu_range_splash_2_chanse" 						"Chance to gain gold: "
-
-		"DOTA_Tooltip_ability_item_gu_range_splash_3" 						"Energy attack 3"
-		"DOTA_Tooltip_ability_item_gu_range_splash_3_Description" 				"Charges your attack with Energym, which allows you to deal area damage. <font color='#ff1f1f'>Works only in ranged heroes' inventory!</font><br><br><font color='#fceb28'>Each attack consumes 1% of your maximal energy!</font>" 
-		"DOTA_Tooltip_ability_item_gu_range_splash_3_bonus_damage" 				"Damage: " 
-		"DOTA_Tooltip_ability_item_gu_range_splash_3_splash_range" 				"Radius: " 
-		"DOTA_Tooltip_ability_item_gu_range_splash_3_gold" 						"Gold per attack: " 
-		"DOTA_Tooltip_ability_item_gu_range_splash_3_chanse" 						"Chance to gain gold: "
-
-		"DOTA_Tooltip_ability_item_gu_energy_paradox" 						"Energy Paradox 1"
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_Description" 				"<h1>Passive: Instability </h1>Charges your attack with Energym, which allows you to deal area damage. <font color='#ff1f1f'>Works only in ranged heroes' inventory!</font><br><br><font color='#fceb28'>Each attack consumes 1% of your maximal energy!</font> \n <h1>Passive: Paradox</h1> Attacks have %crit_chance%% chance to deal %crit_bonus%% damage. \n <h1>Passive: Double attack</h1> All ranged heroes will attack twice with this item." 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_bonus_damage" 				"Damage: " 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_splash_range" 				"Radius: " 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_gold" 						"Gold per attack: " 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_chanse" 						"Chance to gain gold: "
-
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_2" 						"Energy Paradox 2"
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_2_Description" 				"<h1>Passive: Instability </h1>Charges your attack with Energym, which allows you to deal area damage. <font color='#ff1f1f'>Works only in ranged heroes' inventory!</font><br><br><font color='#fceb28'>Each attack consumes 1% of your maximal energy!</font> \n <h1>Passive: Paradox</h1> Attacks have %crit_chance%% chance to deal %crit_bonus%% damage. \n <h1>Passive: Double attack</h1> All ranged heroes will attack twice with this item." 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_2_bonus_damage" 				"Damage: " 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_2_splash_range" 				"Radius: " 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_2_gold" 						"Gold per attack: " 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_2_chanse" 						"Chance to gain gold: "
-
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_3" 						"Energy Paradox 3"
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_3_Description" 				"<h1>Passive: Instability </h1>Charges your attack with Energym, which allows you to deal area damage. <font color='#ff1f1f'>Works only in ranged heroes' inventory!</font><br><br><font color='#fceb28'>Each attack consumes 1% of your maximal energy!</font> \n <h1>Passive: Paradox</h1> Attacks have %crit_chance%% chance to deal %crit_bonus%% damage. \n <h1>Passive: Double attack</h1> All ranged heroes will attack twice with this item." 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_3_bonus_damage" 				"Damage: " 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_3_splash_range" 				"Radius: " 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_3_gold" 						"Gold per attack: " 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_3_chanse" 						"Chance to gain gold: "
-
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_4" 						"Energy Paradox 4"
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_4_Description" 				"<h1>Passive: Instability </h1>Charges your attack with Energym, which allows you to deal area damage. <font color='#ff1f1f'>Works only in ranged heroes' inventory!</font><br><br><font color='#fceb28'>Each attack consumes 1% of your maximal energy!</font> \n <h1>Passive: Paradox</h1> Attacks have %crit_chance%% chance to deal %crit_bonus%% damage. \n <h1>Passive: Double attack</h1> All ranged heroes will attack twice with this item." 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_4_bonus_damage" 				"Damage: " 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_4_splash_range" 				"Radius: " 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_4_gold" 						"Gold per attack: " 
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_4_chanse" 						"Chance to gain gold: "
-
-
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_2_r" 						"Recipe Energy Paradox 2"
-		"DOTA_Tooltip_ability_item_gu_energy_paradox_2_r_Description" 				"Can be abtained by killing Earth Mage boss.<br><br><font color='#7ee340'>Can be shared with an ally!</font>" 
 
 		"prolog_off" "Skip prologue?"
 
@@ -6421,6 +6306,97 @@ They can use autodialling without energy loss."
 				"ban_cause_3"	"You are banned! Reason: Obstacle to normal play!"
 				"ban_cause_4"	"You are banned! Reason: Attempting to dudos the server!"
 				"ban_cause_5"	"You are banned! Reason: You are an over-blood brat, go fuck yourself out of here to your custom Hiro Chaos and don't come back again!"
+
+		"DOTA_Tooltip_ability_item_gu_dead_sword_1"		"Dead Sword 1"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_1_description"		"<h1>Passive: Dead Strike </h1> Attacks deal %bonus_dmg_target%%  additional damage based on total attack damage."
+		"DOTA_Tooltip_ability_item_gu_dead_sword_1_damage"		"Damage:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_1_hp_regen"		"Health regeneration:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_1_mana_regen"		"Mana regeneration:"
+
+		"DOTA_Tooltip_ability_item_gu_dead_sword_2"		"Dead Sword 2"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_2_description"		"<h1>Passive: Dead Strike </h1> Attacks deal %bonus_dmg_target%%  additional damage based on total attack damage."
+		"DOTA_Tooltip_ability_item_gu_dead_sword_2_damage"		"Damage:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_2_hp_regen"		"Health regeneration:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_2_mana_regen"		"Mana regeneration:"
+
+		"DOTA_Tooltip_ability_item_gu_dead_sword_3"		"Dead Sword 3"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_3_description"		"<h1>Passive: Dead Strike </h1> Attacks deal %bonus_dmg_target%%  additional damage based on total attack damage."
+		"DOTA_Tooltip_ability_item_gu_dead_sword_3_damage"		"Damage:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_3_hp_regen"		"Health regeneration:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_3_mana_regen"		"Mana regeneration:"
+
+		"DOTA_Tooltip_ability_item_gu_dead_sword_4"		"Dead Sword 4"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_4_description"		"<h1>Passive: Dead Strike </h1> Attacks deal %bonus_dmg_target%%  additional damage based on total attack damage."
+		"DOTA_Tooltip_ability_item_gu_dead_sword_4_damage"		"Damage:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_4_hp_regen"		"Health regeneration:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_4_mana_regen"		"Mana regeneration:"
+
+		"DOTA_Tooltip_ability_item_gu_dead_sword_5"		"Dead Fury 1"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_5_description"		"<h1>Passive: Dead Strike </h1> Attacks deal %bonus_dmg_target%%  additional damage based on total attack damage.\n <h1>Passive: Bush </h1>If the item is not on cooldown then ranged heroes have 10% chance to bush target, melee - 20% for %bush_duration% "
+		"DOTA_Tooltip_ability_item_gu_dead_sword_5_damage"		"Damage:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_5_hp_regen"		"Health regeneration:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_5_mana_regen"		"Mana regeneration:"
+
+		"DOTA_Tooltip_ability_item_gu_dead_sword_6"		"Dead Fury 2"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_6_description"		"<h1>Passive: Dead Strike </h1> Attacks deal %bonus_dmg_target%%  additional damage based on total attack damage.\n <h1>Passive: Bush </h1>If the item is not on cooldown then ranged heroes have 10% chance to bush target, melee - 20% for %bush_duration% "
+		"DOTA_Tooltip_ability_item_gu_dead_sword_6_damage"		"Damage:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_6_hp_regen"		"Health regeneration:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_6_mana_regen"		"Mana regeneration:"
+
+		"DOTA_Tooltip_ability_item_gu_dead_sword_7"		"Dead Fury 3"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_7_description"		"<h1>Passive: Dead Strike </h1> Attacks deal %bonus_dmg_target%%  additional damage based on total attack damage.\n <h1>Passive: Bush </h1>If the item is not on cooldown then ranged heroes have 10% chance to bush target, melee - 20% for %bush_duration% "
+		"DOTA_Tooltip_ability_item_gu_dead_sword_7_damage"		"Damage:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_7_hp_regen"		"Health regeneration:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_7_mana_regen"		"Mana regeneration:"
+
+		"DOTA_Tooltip_ability_item_gu_dead_sword_8"		"Unstable Dead Fury"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_8_description"		"<h1>Active: Break World  </h1> Stuns all units on activation for 1.8 - 2.2 secs within 300 radius \n <h1>Passive: Dead Strike </h1> Attacks deal %bonus_dmg_target%%  additional damage based on total attack damage.\n <h1>Passive: Bush </h1>If the item is not on cooldown then ranged heroes have 10% chance to bush target, melee - 20% for %bush_duration% \n <h1>Passive: Unstable Rift </h1>Has 17% chance to steal random amount of gold (1-4)"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_8_damage"			"Damage:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_8_hp_regen"		"Health regeneration:"
+		"DOTA_Tooltip_ability_item_gu_dead_sword_8_mana_regen"		"Mana regeneration:"
+
+
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_1"		"Helm of God"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_1_description"		"<h1>Active: Helm of Universe  </h1> On activationincreases your damage, health and armor by %mult_active%% for \n  <h1>Passive: Elemental Burn </h1> With 0.5 interval, deals damage to all enemy units around the hero, damage is based on main attribute and works according to formula - (Main attribute * %mult%)"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_1_armor"			"Armor:"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_1_str"			"Strength:"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_1_int"			"Intellect:"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_1_hp"			"Health:"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_1_mana"			"Mana:"
+
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_2"		"Helm of Anubis"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_2_description"		"<h1>Active: Helm of Universe  </h1> On activationincreases your damage, health and armor by %mult_active%% for \n  <h1>Passive: Elemental Burn </h1> With 0.5 interval, deals damage to all enemy units around the hero, damage is based on main attribute and works according to formula - (Main attribute * %mult%)"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_2_armor"			"Armor:"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_2_str"			"Strength:"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_2_int"			"Intellect:"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_2_hp"			"Health:"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_2_mana"			"Mana:"
+
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_3"		"Helm of Universe"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_3_description"		"<h1>Active: Helm of Universe  </h1> On activationincreases your damage, health and armor by %mult_active%% for \n  <h1>Passive: Elemental Burn </h1> With 0.5 interval, deals damage to all enemy units around the hero, damage is based on main attribute and works according to formula - (Main attribute * %mult%)" \n <h1>Passive: <font color='#ff8400'>Universe Set</font> </h1>「Full Universe set, adds new ability - Destroyer of the world 」"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_3_armor"			"Armor:"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_3_str"			"Strength:"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_3_int"			"Intellect:"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_3_hp"			"Health:"
+		"DOTA_Tooltip_ability_item_gu_helm_of_universe_3_mana"			"Mana:"
+
+        "DOTA_Tooltip_modifier_gu_helm_of_universe_active"				"Helm of Universe"
+
+		"DOTA_Tooltip_Ability_item_gu_helm_of_universe_3_r"				"Рецепт Helm of Universe"
+		"DOTA_Tooltip_Ability_item_gu_helm_of_universe_3_r_Description"		"Fragment of artifact which allows to craft Helm of Universe.<br><br><font color='#7ee340'>Can be shared with an ally!</font>"
+
+		"DOTA_Tooltip_Ability_item_gu_helm_of_universe_2_r"				"Рецепт Helm of Anubis"
+		"DOTA_Tooltip_Ability_item_gu_helm_of_universe_2_r_Description"		"Fragment of artifact which allows to craft Helm of Anubis.<br><br><font color='#7ee340'>Can be shared with an ally!</font>"
+
+		"DOTA_Tooltip_Ability_item_gu_helm_of_universe_1_r"				"Рецепт Helm of God"
+		"DOTA_Tooltip_Ability_item_gu_helm_of_universe_1_r_Description"		"Fragment of artifact which allows to craft Helm of God.<br><br><font color='#7ee340'>Can be shared with an ally!</font>"
+
+		"pray_name"		"Universal Prayer"
+		"pray_start"		"Pray"
+
+		"hero_category_1"	"Universe"
+		"hero_category_2"	"Anime"
+		"hero_category_3"	"Armored"
 
 
 }
